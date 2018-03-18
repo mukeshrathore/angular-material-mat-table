@@ -1,4 +1,5 @@
-# MatSort
+# angular-material-mat-table
+-This demo is showcases paginator and sorting on mat-table using http services based on the video https://www.youtube.com/watch?v=NSt9CI3BXv4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
